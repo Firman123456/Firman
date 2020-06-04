@@ -1,5 +1,5 @@
 # script Belajar aritmatika
-pkg update $$ pkg upgrade
+pkg update && pkg upgrade
 pkg install python2
 pkg install nano
 pkg install figlet
